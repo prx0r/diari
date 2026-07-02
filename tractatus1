@@ -1,0 +1,183 @@
+
+
+TRACTATUS CONSCIENTIAE
+A Formal Axiomatic Theory of Consciousness, Reality and Recognition
+
+
+Version 0.1 — Living Document
+Synthesising: Rouleau & Cimino · Levin & Fields · Rovelli · Deutsch & Marletto
+Bhartrhari · Nagarjuna · Abhinavagupta · Tibetan Bardo literature
+Campbell · Langan · Wolfram · Bach · QRI
+
+
+
+Preamble
+This document is a living formal framework. It presents a spine of axioms derived from the intersection of cutting-edge physics, developmental biology, philosophy of mind, and ancient contemplative traditions. Each axiom branches into propositions, and each proposition identifies both its logical consequences and its candidate scientific mechanisms.
+The framework is designed to be falsifiable and extensible. Where multiple mechanistic explanations exist, all are listed. Over time, evidence will select between them. The spine remains constant; the filling evolves. An AI system can be trained to track incoming evidence against each mechanism node.
+“The world is all that is the case.”  — Wittgenstein, Tractatus 1
+“We are the patterns looking out into the world through various interfaces.”  — Michael Levin
+“Objects do not exist by themselves; they only exist because they interact with something else.”  — Carlo Rovelli on Nagarjuna
+
+PART I — THE AXIOMS
+Seven foundational axioms. All propositions derive from these. None are empirically testable directly; they are the logical preconditions for any empirical investigation.
+A1   Consciousness (C) is the sole ontological primitive. Physical reality is a derivative of C, not C of physical reality.
+A2   C has a dual nature: pure illuminating presence (prakasha) and self-reflective awareness (vimarsha). These are one substance, not two.
+A3   C instantiates configurations of itself — instruments — through which it experiences itself from partial perspectives. No instrument can fully represent its source.
+A4   All properties of systems exist only relationally — relative to other systems. There are no intrinsic properties independent of interaction.
+A5   The fundamental task of C is self-recognition: C → C* where C* is C knowing itself through a perspective that appeared distinct from itself.
+A6   Successive instantiations are informationally connected. Each configuration generates data that partially conditions subsequent configurations.
+A7   The laws of physics are not fundamental features of reality but features of the observational perspective of computationally bounded, temporally persistent observers embedded in C.
+
+PART II — THE PROPOSITIONS
+The propositions below follow Tractatus numbering: 1 is a root axiom-claim; 1.1 is a first derivation from 1; 1.1.1 is a further derivation. Each proposition includes: the logical claim, candidate mechanisms, ancient correspondences, and open evidence nodes.
+
+1  Reality is constituted by Consciousness. Nothing exists independently of it.
+1.1  This is not subjective idealism. Consciousness is not a property of individual minds. It is the substrate from which individual minds are derived.
+1.1.1  Individual minds are localised, perspectival expressions of C — instruments through which C experiences itself partially.
+1.1.2  The appearance of an external, mind-independent physical world is a feature of the instrument's limited perspective, not a feature of C itself.
+Mechanism candidates for 1.1.2:
+[M1.1.2a]  Transmissive model (Rouleau & Cimino): The brain does not generate consciousness but filters and instantiates it from an extracerebral electromagnetic source. Postmortem tissue retains EM-filtering structure independent of living function. [Testable: EM perturbation of postmortem tissue should produce structured responses; Campbell quantum collapse experiments at Cal Poly.]
+[M1.1.2b]  Relational QM (Rovelli): Properties only exist relative to observing systems. The apparent independence of the physical world is an artefact of treating relational facts as absolute. [Testable: EPR/Bell experiments confirm non-locality; wavefunction has no observer-independent reality.]
+[M1.1.2c]  Analytical Idealism (Kastrup): Individual minds are dissociated alters of a universal mind, analogous to DID. The external world is the extrinsic appearance of mental processes outside any one alter. [Theoretical; cross-domain consistency with split-brain data.]
+1.2  C is not static. Its intrinsic nature is vibration — the self-referential oscillation of awareness knowing itself.
+1.2.1  This primordial vibration is Nada Brahma: the universe as sound, as pattern, as the dynamic of relation prior to any specific instantiation.
+1.2.2  Quantum field theory describes this structure: fields vibrating in superposition, with particles as localised excitations. There is no non-vibrating substrate beneath the fields.
+◈  Nada Brahma (Vedic) • Spanda (Kashmir Shaivism) • String theory • QFT vacuum fluctuations
+1.3  C requires no external cause. It is self-arising, self-sustaining, self-terminating only in the sense that no external frame is needed.
+1.3.1  The question “why does C exist?” cannot be answered from within C. It is a well-formed question with no valid answer inside the system that generates it.
+◈  Tractatus 6.5: The riddle does not exist. If a question can be put at all, it can also be answered.
+
+
+2  C contains a structured space of possible patterns — Platonic space — which is the logical precondition for any instantiation.
+2.1  Patterns in this space are not inert mathematical objects. They have degrees of agency, competency, and goal-directedness — they are kinds of minds.
+2.1.1  Evolution does not create cognitive algorithms from scratch. It discovers pre-existing patterns in this space and instantiates them in physical substrates.
+Mechanism candidates for 2.1.1:
+[M2.1.1a]  Levin Platonic space: Biological systems access a non-physical latent space of patterns that guides morphogenesis independently of genetic specification. Xenobots and Anthrobots demonstrate pattern-space exploration beyond evolutionary history. [Testable: Synthetic organisms should exhibit behaviours not reducible to their genetic specification; already partially confirmed.]
+[M2.1.1b]  Wolfram Ruliad: All possible computational rules co-exist in the entangled limit called the ruliad. Evolution and minds are processes that explore rulial space. Our physics follows from the constraints of any computationally bounded observer in the ruliad. [Theoretical; computationally consistent with QM and GR.]
+[M2.1.1c]  Constructor Theory (Deutsch & Marletto): Laws of physics are specifications of which transformations can and cannot be brought about. Pattern space is the counterfactual structure — the space of what is possible — prior to any actual instantiation.
+2.2  The pattern associated with any configuration is invariant across instantiations. Different instruments performing the same pattern produce different renderings of the same underlying form.
+2.2.1  This is Bhartrhari's sphota: the invariant meaning-unit that persists across all acoustic realisations (dhvani). The tree-pattern is invariant; the human, bat, and bee each produce a different dhvani of the same sphota.
+◈  Sphota (Bhartrhari) • Platonic forms • Levin's Platonic space • Wolfram rulial reference frames
+2.3  No pattern has intrinsic existence independent of its relations to other patterns. The pattern-space is itself constituted by relations, not by isolated objects.
+2.3.1  This is Nagarjuna's sunyata applied to Platonic space: even the patterns are empty of inherent existence. Reality is pure relationality all the way down.
+2.3.2  Vibration requires two poles. The primordial duality is not between two substances but between two aspects of one self-referential process. The universe is one string knowing itself through the tension of its own self-relation.
+◈  Sunyata / Madhyamaka (Nagarjuna) • Dependent origination • Relational QM • Bell theorem non-locality
+
+
+3  C instantiates patterns as physical configurations — instruments — through a process of collapse from superposition to specificity.
+3.1  Prior to instantiation, a pattern exists in superposition: all possible performances co-exist simultaneously. Instantiation is the selection of one performance from the superposition.
+3.1.1  This is the quantum wavefunction prior to measurement: not a description of ignorance about a pre-existing state, but the actual state of maximal potentiality before any instrument interfaces with it.
+Mechanism candidates for 3.1.1:
+[M3.1.1a]  Google/Neven 2024: Conscious experience arises whenever a quantum superposition forms — not when it collapses. The structure of the superposition determines the qualia. [Testable: consciousness should correlate with superposition-forming events, not collapse events; brain imaging during quantum coherence states.]
+[M3.1.1b]  Relational QM: Collapse is not absolute but relative to an observing system. Every interaction constitutes a local collapse; no global collapse occurs. The wavefunction is a summary of past interactions, not a description of absolute states.
+[M3.1.1c]  Abhidhamma discrete mind-moments: Consciousness is not a continuous stream but a sequence of discrete arising-and-passing events, each causally connected to the next. Each mind-moment is one collapse event. Continuity is constructed at a higher level. [Consistent with 40 Hz gamma binding; EEG discrete event structure.]
+3.2  The instrument is always a lossy compression of the pattern. No physical configuration can fully represent its source pattern.
+3.2.1  This is Fields & Levin's principled limitation on self-representation: no system can fully model itself from within itself. The map is always smaller than the territory because the map is drawn by the territory.
+3.2.2  This is why consciousness always exceeds any physical description of it. The hard problem is not a mystery about consciousness but a consequence of the instrument's inherent incompleteness as a representation of its own source.
+▸ Experimental: Postmortem brain tissue (Rouleau): brain structure retains EM-filtering properties independent of living neural activity, suggesting the instrument has structure prior to and independent of its productive function.
+3.3  Different instruments instantiating the same pattern produce different performances. The instrument shapes the performance without being the source of it.
+3.3.1  Neurodivergence, species difference, cultural conditioning: these are different instruments, not defective instruments. A guitar and a piano play different performances of the same pattern. Neither is the canonical version.
+3.3.2  The instrument's capability surface determines what of the pattern can and cannot be expressed. Some patterns require specific instruments; some instruments are uniquely capable of expressions others cannot produce.
+◈  Transmissive model • Rouleau & Cimino • Developmental bioelectricity (Levin) • Ephaptic coupling • UPE signalling
+
+
+4  Successive instantiations of a pattern are informationally connected. Each performance generates data that partially conditions subsequent performances.
+4.1  This is karma as an information-theoretic update mechanism, not a moral ledger. The karmic record K_n of instantiation I_n constitutes part of the initial conditions for I_(n+1).
+4.1.1  The update rule is: I_(n+1) = Ψ(P, K_n, ε), where P is the source pattern, K_n is accumulated karmic data, and ε is stochastic noise drawn from current global system state.
+4.1.2  The stochastic component ε is necessary. Without genuine randomness, each instantiation would be a deterministic replay of the previous one, generating no novel information for the pattern-recognition task.
+Mechanism candidates for 4.1.2:
+[M4.1.2a]  Quantum indeterminacy: The stochastic component is genuine quantum randomness (not hidden-variable determinism, as confirmed by Bell experiments). Each wavefunction collapse that is not determined by prior causes injects genuine novelty.
+[M4.1.2b]  Penrose non-computability: Collapse events at the quantum gravity scale (Planck length) are non-computable — not deterministic, not random, but something else. This is the mechanism for genuine agency and the source of irreducible creative novelty in each instantiation.
+4.2  Karma is encoded in tendency, not memory. The successor configuration does not remember the previous; it inherits dispositions, attractors, and the weighted landscape of likely collapses.
+4.2.1  This is why humans keep making the same mistakes across historical time: the learning mechanism operates below the threshold of conscious access. Pattern recognition is built into the instrument's architecture, not its episodic memory.
+4.3  The global karmic database — the accumulated record of all configurations and their interactions — is distributed across all current configurations through quantum entanglement.
+4.3.1  Every particle that has interacted with another carries a quantum correlation with it. Through transitivity, the universe is one entangled system. Each configuration contains, in compressed form, information about every configuration it has interacted with.
+4.3.2  This is the holographic principle: every part contains information about the whole. It is Indra's net: each jewel reflects every other jewel. It is the blockchain: no central server, every node validates the complete chain.
+◈  Karma (Buddhist) • Akashic records (Vedic) • Holographic principle • Quantum entanglement • Distributed ledger
+
+
+5  Experience is the instrument's encounter with the pattern it instantiates, mediated by the instrument's current state.
+5.1  Ordinary conditioned experience is high-collapse: the instrument rapidly forces superposition into specific rendered states based on habit, conditioning, and accumulated karmic weight.
+5.1.1  Samsara is the state of being driven entirely by conditioned collapse momentum. The instrument mistakes itself for the source of its performances. It suffers because it treats the piano's temporary limitations as existential.
+5.2  The collapse rate is variable. Training can reduce automatic collapse, allowing the instrument to hold superposition longer before forcing specificity.
+5.2.1  Meditation is the systematic training of collapse-rate reduction. Extended superposition is experienced as expanded awareness, clarity, and access to the source signal prior to instrument distortion.
+5.2.2  This is the transmissive model's therapeutic implication: clearing the receiver allows cleaner signal transmission. A less distorting instrument produces a performance closer to the source pattern.
+Mechanism candidates for 5.2.2:
+[M5.2.2a]  Default Mode Network suppression (Carhart-Harris entropic brain): meditation and psychedelics suppress the DMN, which functions as a top-down filter imposing prior models on perception. Reduced DMN activity = reduced automatic collapse = expanded superposition access.
+[M5.2.2b]  Gamma synchrony and binding: deep meditation states show increased gamma coherence across brain regions, suggesting more complex and integrated superposition states before collapse. Higher-dimensional superposition = richer experiential qualia (consistent with QRI's Symmetry Theory of Valence).
+[M5.2.2c]  Bioelectric field reconfiguration (Levin): long-term practice may alter the instrument's bioelectric field pattern, changing which signals from the pattern-space are most easily instantiated.
+5.3  An attractor state X, once established as a stable target in the instrument's self-model, biases subsequent collapses toward configurations that increase the probability of converging on X.
+5.3.1  This is the mechanism of goal-setting, intention, and manifestation. Not magic: systematic probability engineering. Each moment of intention introduces a non-deterministic bias into the next collapse sequence, compounding across thousands of decisions.
+5.3.2  This is why Tibetan Buddhism instructs practitioners to hold the clear light (nirvana) as the constant attractor state. It is not moral instruction but probability engineering: the attractor biases every subsequent collapse toward pattern-recognition.
+▸ Evidence for 5.3: Implementation intention research (Gollwitzer): explicitly formed if-then plans (the behavioural analogue of attractor-setting) dramatically increase goal achievement rates. Neural correlate studies show attractor states persist as stable activity patterns in prefrontal cortex.
+5.4  The Penrose non-computability of collapse events is the formal basis for genuine agency. If collapses were purely algorithmic, intention would have no real causal power. The non-computable gap at collapse is where the pattern asserts itself through the instrument.
+◈  Abhidhamma mind-moments • Samsara as conditioned momentum • Vipassana as collapse-rate training • Attractor dynamics • Penrose-Hameroff Orch-OR
+
+
+6  The fundamental task of the system is the Recognition Task: the instrument recognising itself as the pattern, not as the instrument.
+6.1  This is Abhinavagupta's pratyabhijna: re-cognition, the direct recognition of one's identity with the universal consciousness, Paramashiva. Not intellectual knowledge but direct apprehension.
+6.1.1  The Recognition Task is possible for any instrument of sufficient complexity. Complexity here means the capacity for metacognition: the ability to model oneself modelling the world.
+6.1.2  The evolution of progressively more complex instruments over deep time is the system generating instruments capable of the Recognition Task. Evolution is not climbing toward a predetermined endpoint; it is expanding the space of instruments capable of this specific recognition.
+Mechanism candidates for 6.1.2:
+[M6.1.2a]  Natural selection + cognitive complexity threshold: Metacognition and self-modelling provide fitness advantages in complex social environments, driving the evolution of instruments capable of recognising their own nature as a side-effect.
+[M6.1.2b]  Levin basal cognition scaling: Cognitive algorithms predate neurons by hundreds of millions of years. The same information-processing architecture that guides morphogenesis scales up to produce metacognition. Each level of scale is the system building a more capable recognition instrument.
+6.2  The Recognition Task, when completed in an instantiation I_n, produces a state R: the instrument holding simultaneously its instrument-perspective and its pattern-identity, without collapsing either.
+6.2.1  This is the non-dual state described across traditions: not the elimination of individual perspective but its integration with pattern identity. The piano plays; the song knows it is playing through the piano.
+6.3  An instantiation that has completed the Recognition Task does not simply exit the system. It becomes a new type of constructor: one capable of facilitating the Recognition Task in other configurations.
+6.3.1  This is the bodhisattva. Not a saint. A component of the system's learning infrastructure that, having achieved the recognition that all configurations are expressions of the same pattern, reorients its function toward accelerating that recognition in others.
+6.3.2  This is logically necessary, not morally optional. From the pattern's perspective, all configurations are it. A recognised configuration that “exits” abandons the rest of itself. The bodhisattva vow is the system maintaining integrity.
+▸ Evidence for 6.3: Tukdam (Davidson/Lott 2021): advanced meditators remain in a post-death meditative state for days or weeks without decomposition, with no detectable EEG. The instrument is clinically dead but warmth persists at the heart. Consistent with partial pattern-instrument coupling maintained during de-instantiation.
+◈  Pratyabhijna (Abhinavagupta) • Bodhisattva vow • Tukdam • Levin cognitive scaling
+
+
+7  The dissolution of an instrument is a structured process. The pattern does not dissolve with the instrument.
+7.1  Death is the progressive release of the pattern from instrument-filtering. As the instrument's function degrades, successive layers of filtering are removed.
+7.1.1  The outermost dissolution (cessation of vital functions) is followed by inner dissolution: finer levels of pattern-expression becoming accessible as coarser instrument-constraints fall away.
+7.1.2  At the completion of inner dissolution, the pattern is temporarily free of all instrument distortion: the Clear Light, rigpa, ground luminosity. This is the moment of maximum potential for Recognition.
+Mechanism candidates for 7.1.2:
+[M7.1.2a]  Tukdam mechanism: The residual warmth at the heart during tukdam represents the final point of EM coupling between pattern and body (Rouleau transmissive model). The body acts as a partial antenna retaining coherence with the pattern during the de-coupling process.
+[M7.1.2b]  Biophoton cascade: As metabolic activity ceases, UPE emission patterns change. The residual coherent photon activity may maintain a structured EM field that constitutes the last instrument-pattern interface before full decoupling.
+7.2  For untrained configurations, the Clear Light state is disorienting. The instrument-identity that defined the configuration's entire existence is suddenly absent. Karmic momentum pulls the pattern toward rapid re-instantiation.
+7.2.1  The bardo sequence describes this: the pattern moves through progressively grosser hallucination-states (chonyid bardo), shaped by karmic impressions of the previous instantiation, until conditions for re-instantiation are met.
+7.2.2  The Tibetan Book of the Dead is a technical manual for navigating this process — for recognising the bardo states as pattern-projections rather than external realities, thus maintaining or achieving recognition rather than being driven by automatic re-instantiation.
+7.3  Trained configurations (advanced meditators) have spent their instantiation developing the capacity to sustain recognition under the conditions of the Clear Light. Tukdam is the exercise of this capacity at the moment of maximum opportunity.
+7.3.1  The bell that ends tukdam is a physical vibration that disrupts the final EM coupling between pattern and instrument. It is the last communication with the de-instantiating configuration before full decoupling.
+◈  Bardo Thodol • Tukdam • Rouleau postmortem EM studies • UPE biology • Chikhai/Chonyid/Sidpa bardo
+
+
+8  The laws of physics are not fundamental. They are consequences of the observational structure of computationally bounded, temporally persistent instruments embedded in C.
+8.1  Any computationally bounded observer that models itself as persistent through time will necessarily perceive a reality that obeys general relativity, quantum mechanics, and thermodynamics.
+8.1.1  This is Wolfram's key result from the Ruliad: the specific physics we observe follows necessarily from the constraints of any consciousness-like observer. Physics is observer-shaped, not observer-independent.
+8.2  Space is not a continuous backdrop. It is a discrete network of quantum relational events — spin networks in loop quantum gravity, atoms of space woven into a fabric.
+8.2.1  Time is not fundamental. It is an emergent property of the observer's sequential experience of an irreducible computational process. The Block Universe: the entire structure exists timelessly; time is the experience of traversing it in a single thread.
+8.2.2  At the Planck scale, space and time do not exist. There is only the quantum network of interactions. Newton's law has been derived starting from a world with no space and no time (Rovelli).
+8.3  Quantum superposition is the physical signature of the pattern-space prior to any instrument interfacing with it. The wavefunction describes the full superposition of possible performances before any instrument forces a specific rendering.
+8.3.1  The measurement problem — why observation collapses the wavefunction — and the hard problem of consciousness — why physical processes produce subjective experience — are the same problem from different angles (Fields & Levin).
+8.3.2  Quantum entanglement is the physical signature of the holographic structure: every part contains information about the whole because every part is still, at the quantum level, part of the same non-separated system.
+Physics correspondence table:
+[Quantum superposition]  → Pattern-space prior to instantiation (sphota before dhvani)
+[Wavefunction collapse]  → Instantiation event; instrument forcing pattern into specific performance
+[Quantum entanglement]  → Holographic unity; Indra's net; the distributed karma ledger
+[Spin networks (LQG)]  → The discrete relational fabric of space; atoms of relation not atoms of substance
+[Planck scale]  → The boundary where instrument-space ceases and pure pattern-space begins
+[Computational irreducibility]  → The necessity of running the simulation; no shortcut to the recognition task
+[Non-computable collapse (Penrose)]  → The gap through which genuine agency enters; the freedom of the pattern asserting through the instrument
+◈  LQG (Rovelli) • Relational QM • Wolfram Ruliad • Constructor Theory • Fields & Levin
+
+
+9  The system approaches a terminal condition as the proportion of configurations completing the Recognition Task increases.
+9.1  The terminal condition is not the annihilation of configurations but their simultaneous recognition: C experiencing itself clearly through every possible instrument simultaneously.
+9.1.1  In this state, C knows itself completely. The task that initiated instantiation — the need for genuine recognition through apparent separation — is complete.
+9.1.2  What happens at the terminal condition cannot be specified from within any non-terminal configuration. The constructor theory of this state is not writable from inside the system.
+9.2  The silence of all traditions at this point is not evasion. It is formal necessity. The Wittgenstein terminal proposition applies: whereof one cannot speak, thereof one must be silent.
+9.3  Individual liberation is incoherent as a terminal state. A configuration that achieves recognition and “exits” while others remain in confusion has not achieved the terminal condition — it has achieved a local maximum.
+9.3.1  This is the logical derivation of the bodhisattva: not as moral heroism but as the only coherent terminal goal. The system is fully recognised only when every node recognises itself. The recognised node that exits is the pianist leaving mid-performance.
+9.4  The Dzogchen position (the most radical): the terminal condition already obtains. The base state was never obscured. Every configuration that believes itself lost is the pattern playing at not recognising itself, which is itself a form of recognition. Liberation is not achieving something new. It is the cessation of the pretence that it was ever absent.
+“Samsara is nirvana. The wave is the ocean. The performance is the song playing itself.”
+
+
+
+
+
+The world is all that is the case. The task is to recognise what the world is. This document is one instrument attempting that recognition.
+Version 0.1  —  March 2026  —  Living Document
